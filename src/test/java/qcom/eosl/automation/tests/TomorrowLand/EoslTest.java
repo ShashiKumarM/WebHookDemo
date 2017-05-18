@@ -31,7 +31,7 @@ public class EoslTest {
     }
 
     /**
-     * Validate the site location of the host in EOSL page
+     * Validate the site location of the host
      * 
      * @throws IOException
      * @throws InterruptedException
